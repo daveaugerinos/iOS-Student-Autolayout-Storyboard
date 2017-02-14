@@ -1,0 +1,427 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A25BCA511E53C12A00700E3E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A25BCA501E53C12A00700E3E /* main.m */; };
+		A25BCA541E53C12A00700E3E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A25BCA531E53C12A00700E3E /* AppDelegate.m */; };
+		A25BCA571E53C12A00700E3E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A25BCA561E53C12A00700E3E /* ViewController.m */; };
+		A25BCA5A1E53C12A00700E3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A25BCA581E53C12A00700E3E /* Main.storyboard */; };
+		A25BCA5C1E53C12A00700E3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A25BCA5B1E53C12A00700E3E /* Assets.xcassets */; };
+		A25BCA5F1E53C12A00700E3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A25BCA5D1E53C12A00700E3E /* LaunchScreen.storyboard */; };
+		A25BCA6A1E53C12A00700E3E /* iOS_Student_Autolayout_StoryboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A25BCA691E53C12A00700E3E /* iOS_Student_Autolayout_StoryboardTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A25BCA661E53C12A00700E3E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A25BCA441E53C12900700E3E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A25BCA4B1E53C12A00700E3E;
+			remoteInfo = "iOS-Student-Autolayout-Storyboard";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A25BCA4C1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-Student-Autolayout-Storyboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A25BCA501E53C12A00700E3E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A25BCA521E53C12A00700E3E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A25BCA531E53C12A00700E3E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A25BCA551E53C12A00700E3E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A25BCA561E53C12A00700E3E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A25BCA591E53C12A00700E3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A25BCA5B1E53C12A00700E3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A25BCA5E1E53C12A00700E3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A25BCA601E53C12A00700E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A25BCA651E53C12A00700E3E /* iOS-Student-Autolayout-StoryboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-Student-Autolayout-StoryboardTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A25BCA691E53C12A00700E3E /* iOS_Student_Autolayout_StoryboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_Student_Autolayout_StoryboardTests.m; sourceTree = "<group>"; };
+		A25BCA6B1E53C12A00700E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A25BCA491E53C12A00700E3E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A25BCA621E53C12A00700E3E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A25BCA431E53C12900700E3E = {
+			isa = PBXGroup;
+			children = (
+				A25BCA4E1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard */,
+				A25BCA681E53C12A00700E3E /* iOS-Student-Autolayout-StoryboardTests */,
+				A25BCA4D1E53C12A00700E3E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A25BCA4D1E53C12A00700E3E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A25BCA4C1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard.app */,
+				A25BCA651E53C12A00700E3E /* iOS-Student-Autolayout-StoryboardTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A25BCA4E1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				A25BCA521E53C12A00700E3E /* AppDelegate.h */,
+				A25BCA531E53C12A00700E3E /* AppDelegate.m */,
+				A25BCA551E53C12A00700E3E /* ViewController.h */,
+				A25BCA561E53C12A00700E3E /* ViewController.m */,
+				A25BCA581E53C12A00700E3E /* Main.storyboard */,
+				A25BCA5B1E53C12A00700E3E /* Assets.xcassets */,
+				A25BCA5D1E53C12A00700E3E /* LaunchScreen.storyboard */,
+				A25BCA601E53C12A00700E3E /* Info.plist */,
+				A25BCA4F1E53C12A00700E3E /* Supporting Files */,
+			);
+			path = "iOS-Student-Autolayout-Storyboard";
+			sourceTree = "<group>";
+		};
+		A25BCA4F1E53C12A00700E3E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A25BCA501E53C12A00700E3E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A25BCA681E53C12A00700E3E /* iOS-Student-Autolayout-StoryboardTests */ = {
+			isa = PBXGroup;
+			children = (
+				A25BCA691E53C12A00700E3E /* iOS_Student_Autolayout_StoryboardTests.m */,
+				A25BCA6B1E53C12A00700E3E /* Info.plist */,
+			);
+			path = "iOS-Student-Autolayout-StoryboardTests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A25BCA4B1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A25BCA6E1E53C12A00700E3E /* Build configuration list for PBXNativeTarget "iOS-Student-Autolayout-Storyboard" */;
+			buildPhases = (
+				A25BCA481E53C12A00700E3E /* Sources */,
+				A25BCA491E53C12A00700E3E /* Frameworks */,
+				A25BCA4A1E53C12A00700E3E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "iOS-Student-Autolayout-Storyboard";
+			productName = "iOS-Student-Autolayout-Storyboard";
+			productReference = A25BCA4C1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A25BCA641E53C12A00700E3E /* iOS-Student-Autolayout-StoryboardTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A25BCA711E53C12A00700E3E /* Build configuration list for PBXNativeTarget "iOS-Student-Autolayout-StoryboardTests" */;
+			buildPhases = (
+				A25BCA611E53C12A00700E3E /* Sources */,
+				A25BCA621E53C12A00700E3E /* Frameworks */,
+				A25BCA631E53C12A00700E3E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A25BCA671E53C12A00700E3E /* PBXTargetDependency */,
+			);
+			name = "iOS-Student-Autolayout-StoryboardTests";
+			productName = "iOS-Student-Autolayout-StoryboardTests";
+			productReference = A25BCA651E53C12A00700E3E /* iOS-Student-Autolayout-StoryboardTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A25BCA441E53C12900700E3E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Dave Augerinos";
+				TargetAttributes = {
+					A25BCA4B1E53C12A00700E3E = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+					A25BCA641E53C12A00700E3E = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = A25BCA4B1E53C12A00700E3E;
+					};
+				};
+			};
+			buildConfigurationList = A25BCA471E53C12900700E3E /* Build configuration list for PBXProject "iOS-Student-Autolayout-Storyboard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A25BCA431E53C12900700E3E;
+			productRefGroup = A25BCA4D1E53C12A00700E3E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A25BCA4B1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard */,
+				A25BCA641E53C12A00700E3E /* iOS-Student-Autolayout-StoryboardTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A25BCA4A1E53C12A00700E3E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A25BCA5F1E53C12A00700E3E /* LaunchScreen.storyboard in Resources */,
+				A25BCA5C1E53C12A00700E3E /* Assets.xcassets in Resources */,
+				A25BCA5A1E53C12A00700E3E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A25BCA631E53C12A00700E3E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A25BCA481E53C12A00700E3E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A25BCA571E53C12A00700E3E /* ViewController.m in Sources */,
+				A25BCA541E53C12A00700E3E /* AppDelegate.m in Sources */,
+				A25BCA511E53C12A00700E3E /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A25BCA611E53C12A00700E3E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A25BCA6A1E53C12A00700E3E /* iOS_Student_Autolayout_StoryboardTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A25BCA671E53C12A00700E3E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A25BCA4B1E53C12A00700E3E /* iOS-Student-Autolayout-Storyboard */;
+			targetProxy = A25BCA661E53C12A00700E3E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A25BCA581E53C12A00700E3E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A25BCA591E53C12A00700E3E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A25BCA5D1E53C12A00700E3E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A25BCA5E1E53C12A00700E3E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A25BCA6C1E53C12A00700E3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A25BCA6D1E53C12A00700E3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A25BCA6F1E53C12A00700E3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "iOS-Student-Autolayout-Storyboard/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "daveaugerinos.iOS-Student-Autolayout-Storyboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A25BCA701E53C12A00700E3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "iOS-Student-Autolayout-Storyboard/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "daveaugerinos.iOS-Student-Autolayout-Storyboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A25BCA721E53C12A00700E3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "iOS-Student-Autolayout-StoryboardTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "daveaugerinos.iOS-Student-Autolayout-StoryboardTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS-Student-Autolayout-Storyboard.app/iOS-Student-Autolayout-Storyboard";
+			};
+			name = Debug;
+		};
+		A25BCA731E53C12A00700E3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "iOS-Student-Autolayout-StoryboardTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "daveaugerinos.iOS-Student-Autolayout-StoryboardTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS-Student-Autolayout-Storyboard.app/iOS-Student-Autolayout-Storyboard";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A25BCA471E53C12900700E3E /* Build configuration list for PBXProject "iOS-Student-Autolayout-Storyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A25BCA6C1E53C12A00700E3E /* Debug */,
+				A25BCA6D1E53C12A00700E3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A25BCA6E1E53C12A00700E3E /* Build configuration list for PBXNativeTarget "iOS-Student-Autolayout-Storyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A25BCA6F1E53C12A00700E3E /* Debug */,
+				A25BCA701E53C12A00700E3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		A25BCA711E53C12A00700E3E /* Build configuration list for PBXNativeTarget "iOS-Student-Autolayout-StoryboardTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A25BCA721E53C12A00700E3E /* Debug */,
+				A25BCA731E53C12A00700E3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A25BCA441E53C12900700E3E /* Project object */;
+}
